@@ -1,0 +1,34 @@
+h1{
+    color: orange;
+    text-align: center;
+}
+
+header p {
+    color: palegoldenrod;
+}
+
+.box-a {
+    background-color: palegoldenrod;
+    padding: 30px;
+    height: 100px;
+    width: 100px;
+}
+
+.box-b {
+    background-color: palegoldenrod;
+    /* padding: 30px; */
+    height: 100px;
+    width: 100px;
+}
+
+html{
+    background-color: #869506;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    border: solid 1px #869506;
+    width: 100%;
+    padding: 5px;
+}
